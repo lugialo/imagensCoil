@@ -59,6 +59,8 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2025.02.00"))
     implementation("io.coil-kt:coil-compose:2.6.0")
     implementation("io.coil-kt:coil-gif:2.6.0")
+    implementation("io.coil-kt:coil-svg:2.6.0")
+
 
 
 }
